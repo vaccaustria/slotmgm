@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.slotTable {
+	border: 2px solid
+}
+
+.slotRow {
+	border: 1px thin
+}
+
+.aircraftDropTarget {
+	border: 1px dashed
+}
